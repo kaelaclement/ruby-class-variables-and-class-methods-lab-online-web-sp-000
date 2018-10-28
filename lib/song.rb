@@ -14,4 +14,8 @@ class Song
     @@artists << artist
   end
 
+  def count
+    @@count
+  end
+
 end
